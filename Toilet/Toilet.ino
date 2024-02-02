@@ -11,7 +11,7 @@ int buzzPin = 14;
 const char* ssid     = "Pixel";
 const char* password = "0928661531";
 
-String Linetoken = "r8ve6YlUrmUdd4cBQAvYbellwo6OcR7B9g8ZpTmTJys";
+String Linetoken = "";
 
 const char* ntpServer = "pool.ntp.org";
 const long  gmtOffset_sec = 28800;//格林威治時間,一格3600,GMT+8就是8*3600=28800
